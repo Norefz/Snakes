@@ -25,6 +25,6 @@ Thanks For BroCode Tutorial And CHATGPT for helpt this game!
 - Clone This Repo 
   ```bash
   git clone 
--Run This Command 
+- Run This Command 
 ```bash
 java -jar SnakeGame.jar
