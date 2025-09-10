@@ -18,8 +18,7 @@ Thanks For BroCode Tutorial And CHATGPT for helpt this game!
 ### 1. From Source (NetBeans / IntelliJ / Eclipse)
 
 - Open the project in your IDE.  
-- Run the `GameFrame` (main class)
-- .  
+- Run the `GameFrame` (main class) 
 
 ### 2. From JAR file
 - Clone This Repo 
