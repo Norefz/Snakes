@@ -1,6 +1,6 @@
 # 🐍 Snake Game (Java)
 
-A simple Snake Game built with **Java Swing**. Includes Goofy background music, Goffy sound effects, and  Goffya start menu.
+A simple Snake Game built with **Java Swing**. Includes Goofy background music, Goffy sound effects, and  Goffy start menu.
 Thanks For BroCode Tutorial And CHATGPT for helpt this game!
 
 ---
@@ -27,4 +27,4 @@ Thanks For BroCode Tutorial And CHATGPT for helpt this game!
   git clone https://github.com/Norefz/Snakes.git
 - Run This Command 
    ```bash
-  java -jar SnakeGame.jar
+  java -jar snake.jar
