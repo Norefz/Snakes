@@ -9,7 +9,7 @@ Thanks For BroCode Tutorial And CHATGPT for helpt this game!
 - **Java 11 or higher** (JDK or JRE)  
   👉 [Download Java](https://adoptium.net/) if not already installed.  
 - Works on **Windows, Linux, macOS** (cross-platform).
-- 
+
 
 ---
 
