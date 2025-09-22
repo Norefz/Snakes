@@ -28,5 +28,5 @@ Thanks For BroCode Tutorial And CHATGPT for helpt this game!
    ```bash
   java -jar snake.jar
 ### 3.Window
--Run snagesjava.exe(java must installed on system)
--Run snageportable.exe to run without java 
+-Run snagesjava.exe(java must installed on system).
+-Run snageportable.exe to run without java
